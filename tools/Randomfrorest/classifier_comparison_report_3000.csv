@@ -1,0 +1,356 @@
+<<<<<<< HEAD
+index_label,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,classification_report,Time Taken
+=======
+index_label,Accuracy,Balanced Accuracy,ROC AUC,F1 Score,classification_report,Time Taken
+>>>>>>> 74d556a (tools)
+ExtraTreesClassifier,0.972060536,0.975463279,0.975463279,0.972223663,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.96      0.98       561
+         1.0       0.94      0.99      0.96       298
+
+    accuracy                           0.97       859
+   macro avg       0.96      0.98      0.97       859
+weighted avg       0.97      0.97      0.97       859
+<<<<<<< HEAD
+",0.120027304
+=======
+",0.120027304
+>>>>>>> 74d556a (tools)
+RandomForestClassifier,0.970896391,0.97299884,0.97299884,0.971036441,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.97      0.98       561
+         1.0       0.94      0.98      0.96       298
+
+    accuracy                           0.97       859
+   macro avg       0.96      0.97      0.97       859
+weighted avg       0.97      0.97      0.97       859
+<<<<<<< HEAD
+",0.1770401
+=======
+",0.1770401
+>>>>>>> 74d556a (tools)
+AdaBoostClassifier,0.970896391,0.972212253,0.972212253,0.97101602,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.97      0.98       561
+         1.0       0.94      0.98      0.96       298
+
+    accuracy                           0.97       859
+   macro avg       0.96      0.97      0.97       859
+weighted avg       0.97      0.97      0.97       859
+<<<<<<< HEAD
+",0.117038965
+=======
+",0.117038965
+>>>>>>> 74d556a (tools)
+BaggingClassifier,0.972060536,0.969957171,0.969957171,0.972082311,"              precision    recall  f1-score   support
+
+         0.0       0.98      0.98      0.98       561
+         1.0       0.96      0.96      0.96       298
+
+    accuracy                           0.97       859
+   macro avg       0.97      0.97      0.97       859
+weighted avg       0.97      0.97      0.97       859
+<<<<<<< HEAD
+",0.044009447
+=======
+",0.044009447
+>>>>>>> 74d556a (tools)
+XGBClassifier,0.970896391,0.968279319,0.968279319,0.970907785,"              precision    recall  f1-score   support
+
+         0.0       0.98      0.98      0.98       561
+         1.0       0.96      0.96      0.96       298
+
+    accuracy                           0.97       859
+   macro avg       0.97      0.97      0.97       859
+weighted avg       0.97      0.97      0.97       859
+<<<<<<< HEAD
+",0.071995497
+=======
+",0.071995497
+>>>>>>> 74d556a (tools)
+LGBMClassifier,0.967403958,0.966392109,0.966392109,0.967478773,"              precision    recall  f1-score   support
+
+         0.0       0.98      0.97      0.97       561
+         1.0       0.94      0.96      0.95       298
+
+    accuracy                           0.97       859
+   macro avg       0.96      0.97      0.96       859
+weighted avg       0.97      0.97      0.97       859
+<<<<<<< HEAD
+",0.089020252
+=======
+",0.089020252
+>>>>>>> 74d556a (tools)
+Perceptron,0.951105937,0.961780258,0.961780258,0.951739714,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.93      0.96       561
+         1.0       0.88      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.94      0.96      0.95       859
+weighted avg       0.96      0.95      0.95       859
+<<<<<<< HEAD
+",0.010002136
+=======
+",0.010002136
+>>>>>>> 74d556a (tools)
+PassiveAggressiveClassifier,0.949941793,0.961675579,0.961675579,0.950628615,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.94      0.96      0.95       859
+weighted avg       0.96      0.95      0.95       859
+<<<<<<< HEAD
+",0.00901413
+=======
+",0.00901413
+>>>>>>> 74d556a (tools)
+GaussianNB,0.951105937,0.960993671,0.960993671,0.951714217,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.93      0.96       561
+         1.0       0.88      0.99      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.94      0.96      0.95       859
+weighted avg       0.96      0.95      0.95       859
+<<<<<<< HEAD
+",0.009009361
+=======
+",0.009009361
+>>>>>>> 74d556a (tools)
+LinearSVC,0.948777648,0.959997727,0.959997727,0.94946766,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.94      0.96      0.95       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.029994488
+=======
+",0.029994488
+>>>>>>> 74d556a (tools)
+DecisionTreeClassifier,0.963911525,0.959785378,0.959785378,0.963897266,"              precision    recall  f1-score   support
+
+         0.0       0.97      0.97      0.97       561
+         1.0       0.95      0.95      0.95       298
+
+    accuracy                           0.96       859
+   macro avg       0.96      0.96      0.96       859
+weighted avg       0.96      0.96      0.96       859
+<<<<<<< HEAD
+",0.013003111
+=======
+",0.013003111
+>>>>>>> 74d556a (tools)
+LogisticRegression,0.947613504,0.959106461,0.959106461,0.948332271,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.96      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.033013582
+=======
+",0.033013582
+>>>>>>> 74d556a (tools)
+RidgeClassifierCV,0.94644936,0.959001783,0.959001783,0.947223171,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.96      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.013003349
+=======
+",0.013003349
+>>>>>>> 74d556a (tools)
+BernoulliNB,0.94644936,0.959001783,0.959001783,0.947223171,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.96      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.010014296
+=======
+",0.010014296
+>>>>>>> 74d556a (tools)
+LinearDiscriminantAnalysis,0.94644936,0.959001783,0.959001783,0.947223171,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.96      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.011996508
+=======
+",0.011996508
+>>>>>>> 74d556a (tools)
+SVC,0.94644936,0.959001783,0.959001783,0.947223171,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.96      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.028993845
+=======
+",0.028993845
+>>>>>>> 74d556a (tools)
+RidgeClassifier,0.94644936,0.959001783,0.959001783,0.947223171,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      1.00      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.96      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.011002779
+=======
+",0.011002779
+>>>>>>> 74d556a (tools)
+QuadraticDiscriminantAnalysis,0.949941793,0.958529232,0.958529232,0.95052419,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.93      0.96       561
+         1.0       0.88      0.99      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.94      0.96      0.95       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.011002302
+=======
+",0.011002302
+>>>>>>> 74d556a (tools)
+CalibratedClassifierCV,0.947613504,0.958319875,0.958319875,0.948305958,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.92      0.96       561
+         1.0       0.87      0.99      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.96      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.110024452
+=======
+",0.110024452
+>>>>>>> 74d556a (tools)
+LabelPropagation,0.945285215,0.95496417,0.95496417,0.945980264,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.92      0.96       561
+         1.0       0.87      0.99      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.95      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.300067902
+=======
+",0.300067902
+>>>>>>> 74d556a (tools)
+LabelSpreading,0.945285215,0.95496417,0.95496417,0.945980264,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.92      0.96       561
+         1.0       0.87      0.99      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.93      0.95      0.94       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.389088154
+=======
+",0.389088154
+>>>>>>> 74d556a (tools)
+SGDClassifier,0.944121071,0.951713144,0.951713144,0.944755807,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.93      0.96       561
+         1.0       0.88      0.98      0.92       298
+
+    accuracy                           0.94       859
+   macro avg       0.93      0.95      0.94       859
+weighted avg       0.95      0.94      0.94       859
+<<<<<<< HEAD
+",0.013002634
+=======
+",0.013002634
+>>>>>>> 74d556a (tools)
+NuSVC,0.941792782,0.951503786,0.951503786,0.942547279,"              precision    recall  f1-score   support
+
+         0.0       0.99      0.92      0.95       561
+         1.0       0.87      0.98      0.92       298
+
+    accuracy                           0.94       859
+   macro avg       0.93      0.95      0.94       859
+weighted avg       0.95      0.94      0.94       859
+<<<<<<< HEAD
+",0.074016809
+=======
+",0.074016809
+>>>>>>> 74d556a (tools)
+KNeighborsClassifier,0.951105937,0.950768044,0.950768044,0.951324152,"              precision    recall  f1-score   support
+
+         0.0       0.97      0.95      0.96       561
+         1.0       0.91      0.95      0.93       298
+
+    accuracy                           0.95       859
+   macro avg       0.94      0.95      0.95       859
+weighted avg       0.95      0.95      0.95       859
+<<<<<<< HEAD
+",0.030007124
+=======
+",0.030007124
+>>>>>>> 74d556a (tools)
+ExtraTreeClassifier,0.955762515,0.948040412,0.948040412,0.955618172,"              precision    recall  f1-score   support
+
+         0.0       0.96      0.97      0.97       561
+         1.0       0.95      0.92      0.94       298
+
+    accuracy                           0.96       859
+   macro avg       0.95      0.95      0.95       859
+weighted avg       0.96      0.96      0.96       859
+<<<<<<< HEAD
+",0.010002375
+=======
+",0.010002375
+>>>>>>> 74d556a (tools)
+NearestCentroid,0.908032596,0.929590018,0.929590018,0.909931446,"              precision    recall  f1-score   support
+
+         0.0       1.00      0.86      0.92       561
+         1.0       0.79      1.00      0.88       298
+
+    accuracy                           0.91       859
+   macro avg       0.90      0.93      0.90       859
+weighted avg       0.93      0.91      0.91       859
+<<<<<<< HEAD
+",0.009989738
+=======
+",0.009989738
+>>>>>>> 74d556a (tools)
+DummyClassifier,0.559953434,0.519156229,0.519156229,0.561917369,"              precision    recall  f1-score   support
+
+         0.0       0.67      0.65      0.66       561
+         1.0       0.37      0.39      0.38       298
+
+    accuracy                           0.56       859
+   macro avg       0.52      0.52      0.52       859
+weighted avg       0.56      0.56      0.56       859
+<<<<<<< HEAD
+",0.009004116
+=======
+",0.009004116
+>>>>>>> 74d556a (tools)
